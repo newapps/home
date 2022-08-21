@@ -28,11 +28,6 @@ routes = [
     url: './pages/facebook.php',
   },
   
-   {
-    path: '/social',
-    url: './pages/social.php',
-  },
- 
   
   {
     path: '/ppsspp',
@@ -97,6 +92,10 @@ routes = [
   {
     path: '/pages/:id',
     url: './pages/{{id}}',
+  },
+   {
+    path: '/social',
+    componentUrl: './pages/social.php',
   },
   {
     path: '/theming',
