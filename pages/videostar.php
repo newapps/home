@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          VideoStar++
+          VideoStar ++ New
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -26,7 +26,7 @@
           <li class="media-item">
             <div class="item-content">
               <div class="item-media"><img src=
-              "./img/vs.png"
+              "./img/vs.jpg"
               class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">
@@ -51,6 +51,7 @@
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>Hacked - All Features Unlocked</pre>
+        <pre>New Version</pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
