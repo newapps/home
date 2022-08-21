@@ -28,6 +28,12 @@ routes = [
     url: './pages/facebook.php',
   },
   
+   {
+    path: '/fb',
+    url: 'https://www.facebook.com/ibrahimmm55',
+  },
+  
+  
   {
     path: '/twitter',
     url: './pages/twitter.php',
