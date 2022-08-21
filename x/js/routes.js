@@ -24,6 +24,17 @@ routes = [
     url: './pages/esign.php',
   },
   {
+    path: '/facebook',
+    url: './pages/facebook.php',
+  },
+  
+  {
+    path: '/twitter',
+    url: './pages/twitter.php',
+  },
+  
+  
+  {
     path: '/ppsspp',
     url: './pages/ppsspp.php',
   },
