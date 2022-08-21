@@ -100,7 +100,7 @@ routes = [
   },
   {
     path: '/theming',
-    url: './pages/theme.php',
+    componentUrl: './pages/theme.php',
   },
   // Default route (404 page). MUST BE THE LAST
   {
