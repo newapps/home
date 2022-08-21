@@ -95,7 +95,7 @@ routes = [
   },
    {
     path: '/media',
-    componentUrl: './pages/social.php',
+    componentUrl: './pages/media.php',
   },
   {
     path: '/theming',
