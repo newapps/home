@@ -20,7 +20,7 @@
   <p class="text2"> ئەم پەڕەیە نەدۆزرایەوە </p>
 <center>
 
-   <a href="./index.html"> <button class="btn btn-primary" type="button">Home</button></a>
+   <a href="https://newapps.github.io/home/"> <button class="btn btn-primary" type="button">Home</button></a>
 
 </center>
   <style>
