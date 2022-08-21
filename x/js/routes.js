@@ -32,7 +32,14 @@ routes = [
     path: '/fb',
     url: 'https://www.facebook.com/ibrahimmm55',
   },
-  
+  {
+    path: '/snap',
+    url: 'https://is.gd/oOa7HO',
+  },
+  {
+    path: '/tele',
+    url: 'https://t.me/ibrahimiphone',
+  },
   
   {
     path: '/twitter',
