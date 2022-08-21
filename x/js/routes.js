@@ -94,7 +94,7 @@ routes = [
     url: './pages/{{id}}',
   },
    {
-    path: '/social',
+    path: '/media',
     componentUrl: './pages/social.php',
   },
   {
