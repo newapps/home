@@ -106,7 +106,7 @@ p{
 </head>
 
 <body>
-
+  <div class="page">
 <p> لە رێگای ئەم تۆرە کۆمەڵایەتیانە لەگەلم بن </p>
 <br>
 <center>
@@ -123,6 +123,6 @@ p{
   <li><a href="https://is.gd/Czd7kK"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
  
 </ul>
-  
+  </div>
 </body>
 </html>
